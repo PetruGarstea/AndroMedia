@@ -1,2 +1,2 @@
 # AndroMedia
-AndroMedia is media/game console for ODROID-C1+
+AndroMedia is a media/game console for ODROID-C1+
