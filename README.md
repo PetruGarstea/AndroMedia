@@ -9,6 +9,6 @@ AndroMedia is a media/game console for [ODROID-C1+](http://www.hardkernel.com/ma
 6. Install NES.emu emulator from play store.
 7. Install NEO.emu emulator from play store.
 8. The [SNES](http://emu-fr.net/v1/module.php?page=programme_roms&console=Super_Nes), [NES](http://emu-fr.net/v1/module.php?page=programme_roms&console=Nes&tri=nom) and [NEO GEO](http://emu-fr.net/v1/module.php?page=programme_roms&console=Neo_Geo&tri=nom&l=M) rom repositories.
-
+9. Install [KODI SuperRepo](https://superrepo.org/get-started/) reposotory.
 
 
