@@ -16,7 +16,7 @@ AndroMedia - [ODROID-C1+](http://www.hardkernel.com/main/products/prdt_info.php?
 
 What else you can do: 
 
-1. Attach an USB drive, install foldersync and ttorent apks. Now you can put on your dropbox from anywhere a torrent file and foldersync will automaticaly synchronize it with your AndroMedia console where ttorent will pick up the torrent file and download the content. So when you arrive home to relax the media that you want is already donwloaded on the USB drive.
+1. Attach an USB drive, install foldersync and ttorrent apks. Now you can put on your dropbox from anywhere a torrent file and foldersync will automaticaly synchronize it with your AndroMedia console where ttorent will pick up the torrent file and download the content. So when you arrive home to relax the media that you want is already donwloaded on the USB drive.
 
 2. Install YATSE, KODI remote controller to your mobile device.
 
