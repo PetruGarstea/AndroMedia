@@ -1,5 +1,5 @@
 # AndroMedia
-AndroMedia is a media/game console for [ODROID-C1+](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143703355573)
+AndroMedia - [ODROID-C1+](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143703355573) DYI media/game console
 
 1. Download [Android](http://odroid.com/dokuwiki/doku.php?id=en:c1_release_android).
 2. Write the image on sd card with [win32diskimager](http://sourceforge.net/projects/win32diskimager/), in my case im using SanDisk class 10 8GB.
