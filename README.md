@@ -32,6 +32,10 @@ What else you can do:
 
 8. No limitation just use your imagination :).
 
+Tweets:
+
+1. Moved from sdcard to emmc, performance increased on x2.5 times
+
 
 
 
